@@ -1,8 +1,6 @@
-Here's a tailored `README.md` file based on the data shown in your dashboard screenshot. It mirrors the style and structure of your original Supply Chain version but is adapted to **Product Data Analysis** with real values from your dashboard.
-
 ---
 
-# 📦 Excel Interactive Product Data Dashboard
+# 📦 Excel Interactive Product Data Anaysis Dashboard
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-brightgreen?style=for-the-badge\&logo=microsoft-excel)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge\&logo=databricks)
