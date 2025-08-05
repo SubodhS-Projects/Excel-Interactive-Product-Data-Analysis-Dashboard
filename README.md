@@ -17,10 +17,9 @@ Ideal for **product managers, sales analysts, and executives**, this dashboard e
 
 ---
 
-## 🔗 Author
-
-👤 **Created by: Subodh Shahare™**
-🌐 \[Portfolio Website] | 💼 \[LinkedIn] | 🧠 Excel Enthusiast
+## 🔗 Author  
+👤 **By Subodh Shahare™**  
+🌐 [Portfolio Website](https://subodh-s.my.canva.site/home) | 💼 [LinkedIn](https://www.linkedin.com/in/subodhshahare) | 
 
 ---
 
