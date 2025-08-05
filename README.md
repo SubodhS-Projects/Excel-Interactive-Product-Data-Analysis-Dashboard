@@ -55,9 +55,9 @@ This dashboard integrates **all key product metrics into one place**, using **Pi
 
 ### Steps to Explore
 
-1. Clone this repository or download `Supply_Chain_Dashboard.zip`
-2. Extract the `Supply_Chain_Dashboard.zip` on your computer
-3. Open `Supply_Chain_Dashboard.xlsx`
+1. Clone this repository or download `Product Data_Excel Interactive_Dashboard.zip`
+2. Extract the `Product Data_Excel Interactive_Dashboard.zip` on your computer
+3. Open `Product Data_Excel Interactive_Dashboard.xlsx`
 4. Explore each report section using slicers and filters
 5. Use slicers to filter by:
 
@@ -119,7 +119,7 @@ This dashboard delivers **real-time product insights** that help stakeholders mo
 
 > 💡 *"Good data speaks volumes. This dashboard helps you listen."*
 
-![Dashboard Preview](Screenshot_Excel-Interactive-Product%20Data%20Analysis%20Dashboard.png)
+![Dashboard Preview](https://github.com/SubodhS-Projects/Excel-Interactive-Product-Data-Analysis-Dashboard/blob/main/Screenshot_Product%20Data_Excel%20Interactive_Dashboard.png?raw=true)
 
 ---
 
