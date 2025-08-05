@@ -1,5 +1,3 @@
----
-
 # 📦 Excel Interactive Product Data Anaysis Dashboard
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-brightgreen?style=for-the-badge\&logo=microsoft-excel)
