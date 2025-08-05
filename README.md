@@ -55,15 +55,17 @@ This dashboard integrates **all key product metrics into one place**, using **Pi
 
 ### Steps to Explore
 
-1. Download `Product_Data_Dashboard.xlsx`
-2. Open the Excel file
-3. Use slicers to filter by:
+1. Clone this repository or download `Supply_Chain_Dashboard.zip`
+2. Extract the `Supply_Chain_Dashboard.zip` on your computer
+3. Open `Supply_Chain_Dashboard.xlsx`
+4. Explore each report section using slicers and filters
+5. Use slicers to filter by:
 
    * 📍 Region
    * 🏷️ Category
    * 📦 Product Name
    * 📅 Month & Year
-4. Review charts for actionable insights
+6. Review charts for actionable insights
 
 ---
 
@@ -121,11 +123,12 @@ This dashboard delivers **real-time product insights** that help stakeholders mo
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
-📧 \[Email] | 💼 \[LinkedIn] | 🌐 \[Portfolio]
+I'm actively exploring new opportunities and collaborations!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
+- 🌐 [My Portfolio Website](https://subodh-s.my.canva.site/home)  
+- 📧 [Email](mailto:Subodh.shahare@gmail.com)
 
 ---
-
-Let me know if you’d like this saved as a `.md` or `.pdf` file.
-
